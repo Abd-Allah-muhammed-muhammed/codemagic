@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "678512741665",
+    "project_id": "codemagic-8c35c",
+    "storage_bucket": "codemagic-8c35c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678512741665:android:cacaf709f996a0639b8260",
+        "android_client_info": {
+          "package_name": "com.example.codemagic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBthBmPP7YSJSiCUfmYjldnap0m0YnHiU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
